@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/jedaf/.m2/repository/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.jar;C:/Users/jedaf/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar;C:/Users/jedaf/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE120/AbsoluteLayout-RELEASE120.jar;C:/Users/jedaf/.m2/repository/com/googlecode/soundlibs/mp3spi/1.9.5-1/mp3spi-1.9.5-1.jar;C:/Users/jedaf/.m2/repository/com/googlecode/soundlibs/tritonus-share/0.3.7-1/tritonus-share-0.3.7-1.jar;C:/Users/jedaf/.m2/repository/com/googlecode/soundlibs/jlayer/1.0.1-1/jlayer-1.0.1-1.jar;C:/Users/jedaf/.m2/repository/org/jdesktop/beansbinding/1.2.1/beansbinding-1.2.1.jar;C:/Users/jedaf/.m2/repository/org/codehaus/mojo/exec-maven-plugin/1.2.1/exec-maven-plugin-1.2.1.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.jar;C:/Users/jedaf/.m2/repository/commons-cli/commons-cli/1.0/commons-cli-1.0.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.jar;C:/Users/jedaf/.m2/repository/classworlds/classworlds/1.1/classworlds-1.1.jar;C:/Users/jedaf/.m2/repository/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.jar;C:/Users/jedaf/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar;C:/Users/jedaf/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.jar;C:/Users/jedaf/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar;C:/Users/jedaf/.m2/repository/org/apache/commons/commons-exec/1.1/commons-exec-1.1.jar;C:/Users/jedaf/.m2/repository/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar;C:/Users/jedaf/.m2/repository/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar;C:/Users/jedaf/.m2/repository/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar;C:/Users/jedaf/.m2/repository/javazoom/jlayer/1.0.1/jlayer-1.0.1.jar;C:/Users/jedaf/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/jedaf/Desktop/SaoJudasProjeto/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jedaf/Desktop/SaoJudasProjeto/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Projeto 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/15/docs/api' 'C:/Users/jedaf/Desktop/SaoJudasProjeto/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Projeto 1.0-SNAPSHOT API'
