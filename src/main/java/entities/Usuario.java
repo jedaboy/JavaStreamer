@@ -1,3 +1,7 @@
+/**
+ *
+ * @author Jedaboy/Mateus Oliveira/Guilherme Leme
+ */
 package entities;
 
 
